@@ -1,6 +1,6 @@
 class Player:
     def play(self):
-        print("The player is playing cricket.")
+        print("The  player is playing cricket.")
 
 class Batsman(Player):
     def play(self):
