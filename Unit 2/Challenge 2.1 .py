@@ -31,7 +31,7 @@ while True:
     print("\nMenu:")
     print("1. Withdraw cash")
     print("2. Deposit money")
-    print("3. Exit Atm")
+    print("3.  Exit Atm")
     choice = input("Enter your choice: ")
 
     if choice == '1':
